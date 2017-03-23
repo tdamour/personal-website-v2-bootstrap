@@ -112,7 +112,6 @@ if(empty($errors) && empty($nameErr) && empty($emailErr))
 				<li class="page-scroll"><a href="#about">About</a></li>
 				<li class="page-scroll"><a href="#portfolio">Portfolio</a></li>
 				<li class="page-scroll"><a href="#contact">Contact</a></li>
-				<li class="page-scroll"><a href="#">Blog</a></li>
 			  </ul>
 			</div>
 		  </div>
